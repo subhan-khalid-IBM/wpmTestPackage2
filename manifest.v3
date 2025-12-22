@@ -8,7 +8,7 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
-    <value name="WxServiceAlerts">2.0.0</value>
+    <value name="WxServiceAlerts">3.0.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
